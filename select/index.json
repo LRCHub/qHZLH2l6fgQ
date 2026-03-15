@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "rhythm",
+  "base_artist": "iri",
+  "createdAt": "2026-03-15T14:28:24.768739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God Is in the Rhythm",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_God_Is_in_the_Rhythm_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God Is in the Rhythm",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_God_Is_in_the_Rhythm_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Rhythm",
+      "artist": "The Highwaymen",
+      "has_synced": false,
+      "path": "select/03_Get_Rhythm_The_Highwaymen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Rhythm",
+      "artist": "Sweethearts of the Rodeo",
+      "has_synced": false,
+      "path": "select/04_Get_Rhythm_Sweethearts_of_the_Rodeo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rockin' with the Rhythm of the Rain",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/05_Rockin'_with_the_Rhythm_of_the_Rain_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rockin' With The Rhythm Of The Rain",
+      "artist": "The Judds",
+      "has_synced": true,
+      "path": "select/06_Rockin'_With_The_Rhythm_Of_The_Rain_The_Judds.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "She's Got the Rhythm (And I Got the Blues)",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/07_She's_Got_the_Rhythm_(And_I_Got_the_Blues)_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let the Rhythm Run (Remix)",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/08_Let_the_Rhythm_Run_(Remix)_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rhythm (Devoted to the Art of Moving Butts)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/09_Rhythm_(Devoted_to_the_Art_of_Moving_Butts)_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Special (Brothers In Rhythm Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_Special_(Brothers_In_Rhythm_Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Special (Brothers In Rhythm)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/11_Special_(Brothers_In_Rhythm)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Got Rhythm",
+      "artist": "Mike Oldfield",
+      "has_synced": false,
+      "path": "select/12_I_Got_Rhythm_Mike_Oldfield.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ride on the Rhythm (Masters at Work dub)",
+      "artist": "Little Louie & Marc Anthony",
+      "has_synced": false,
+      "path": "select/13_Ride_on_the_Rhythm_(Masters_at_Work_dub)_Little_Louie_&_Marc_Anthony.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rhythm",
+      "artist": "iri",
+      "has_synced": false,
+      "path": "select/pl_01_rhythm_iri.txt"
+    }
+  ]
+}
